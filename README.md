@@ -30,6 +30,24 @@ Always introducing new systems for spaghetti code!
 ## 🛠️ Frameworks and Libraries:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-css-%2306B6D4?logo=Tailwind%20css)
-
+![Material UI](https://img.shields.io/badge/Material-UI-blue?logo=MUI)
+![Bulma](https://img.shields.io/badge/Bulma-white?logo=Bulma)
+![ASP.NET]
+![Spring Boot]
+![Seaborn]
+![Bokeh]
+![Plotly Dash]
+![D3.js]
+![PyTorch]
+![Scikit-learn]
+![Hugging Face]
+![OpenCV]
+![Chef]
+![Puppet]
+![Figma]
+![Sketch]
+![Flutter]
+![Postman]
+![Swagger]
 
 ## 🏗️ Tools and Platforms:
