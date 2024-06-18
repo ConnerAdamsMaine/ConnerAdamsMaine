@@ -28,6 +28,8 @@ Always introducing new systems for spaghetti code!
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F?style=for-the-badge&logo=scala)
 
 ## 🛠️ Frameworks and Libraries:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-css-%2306B6D4?logo=Tailwind%20css)
 
 
 ## 🏗️ Tools and Platforms:
