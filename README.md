@@ -12,7 +12,7 @@ Always introducing new systems for spaghetti code!
 ## 📜 Languages:
 ![Static Badge](https://img.shields.io/badge/C-blue)
 ![Static Badge](https://img.shields.io/badge/C-blue?label=Embedded&labelColor=orange)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-grey)
+![Static Badge](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-grey?label=Embedded&labelColor=orange)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%90%8DPython-green)
 ![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
