@@ -33,7 +33,7 @@ Always introducing new systems for spaghetti code!
 ![Material UI](https://img.shields.io/badge/Material-UI-blue?style=for-the-badge&logo=MUI)
 ![Bulma](https://img.shields.io/badge/Bulma-white?style=for-the-badge&logo=Bulma)
 ![ASP.NET](https://img.shields.io/badge/.NET-purple?label=ASP&style=for-the-badge&labelColor=purple)
-![Spring Boot]
+![Spring Boot](https://img.shields.io/badge/Boot-white?logo=Spring%20boot&label=Spring&style=for-the-badge&labelColor=Green)
 ![Seaborn]
 ![Bokeh]
 ![Plotly Dash]
