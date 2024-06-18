@@ -28,11 +28,11 @@ Always introducing new systems for spaghetti code!
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F?style=for-the-badge&logo=scala)
 
 ## 🛠️ Frameworks and Libraries:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-css-%2306B6D4?logo=Tailwind%20css)
-![Material UI](https://img.shields.io/badge/Material-UI-blue?logo=MUI)
-![Bulma](https://img.shields.io/badge/Bulma-white?logo=Bulma)
-![ASP.NET]
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-css-%2306B6D4?style=for-the-badge&logo=Tailwind%20css)
+![Material UI](https://img.shields.io/badge/Material-UI-blue?style=for-the-badge&logo=MUI)
+![Bulma](https://img.shields.io/badge/Bulma-white?style=for-the-badge&logo=Bulma)
+![ASP.NET](https://img.shields.io/badge/.NET-purple?label=ASP&style=for-the-badge&labelColor=purple)
 ![Spring Boot]
 ![Seaborn]
 ![Bokeh]
