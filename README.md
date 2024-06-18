@@ -34,7 +34,7 @@ Always introducing new systems for spaghetti code!
 ![Bulma](https://img.shields.io/badge/Bulma-white?style=for-the-badge&logo=Bulma)
 ![ASP.NET](https://img.shields.io/badge/.NET-purple?label=ASP&style=for-the-badge&labelColor=purple)
 ![Spring Boot](https://img.shields.io/badge/Boot-white?logo=Spring%20boot&label=Spring&style=for-the-badge&labelColor=Green)
-![Seaborn]
+![Seaborn](![Static Badge](https://img.shields.io/badge/Born-white?logo=Python&logoColor=green&style=for-the-badge&label=Sea&labelColor=blue)
 ![Bokeh]
 ![Plotly Dash]
 ![D3.js]
