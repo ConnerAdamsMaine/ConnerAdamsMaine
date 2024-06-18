@@ -15,7 +15,7 @@ Always introducing new systems for spaghetti code!
 ![Static Badge](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-grey?label=Embedded&labelColor=orange)
 ![Static Badge](https://img.shields.io/badge/Python-green?logo=Python)
-![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Static Badge](https://img.shields.io/badge/javascript-blue?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 
 ## 🛠️ Frameworks and Libraries:
