@@ -20,6 +20,7 @@ Always introducing new systems for spaghetti code!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ## 🛠️ Frameworks and Libraries:
 
