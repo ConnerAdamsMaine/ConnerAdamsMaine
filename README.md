@@ -24,8 +24,8 @@ Always introducing new systems for spaghetti code!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust)
-![Perl](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl&logoColor=%2339457E)
-![Scala](https://img.shields.io/badge/Scala-%23DC322F?style=for-the-badge&logo=scala&logoColor=%23DC322F)
+![Perl](https://img.shields.io/badge/Perl-%2339457E?style=for-the-badge&logo=perl)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F?style=for-the-badge&logo=scala)
 
 ## 🛠️ Frameworks and Libraries:
 
