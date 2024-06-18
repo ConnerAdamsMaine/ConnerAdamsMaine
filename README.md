@@ -23,7 +23,7 @@ Always introducing new systems for spaghetti code!
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-grey?logo=rust)
+![Rust](https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust)
 
 ## 🛠️ Frameworks and Libraries:
 
