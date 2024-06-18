@@ -10,7 +10,7 @@ Always introducing new systems for spaghetti code!
 
 # 💻 Tech Stack:
 ## 📜 Languages:
-![C](https://img.shields.io/badge/C-blue?logo=C)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
 ![Embedded C](https://img.shields.io/badge/C-blue?style=for-the-badge&label=Embedded&labelColor=orange)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Embedded C++](https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&label=Embedded&labelColor=orange)
