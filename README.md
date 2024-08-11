@@ -11,7 +11,7 @@ Always introducing new systems for spaghetti code!
 # 💻 Tech Stack:
 ## 📜 Languages:
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
-![Objective-C](https://img.shields.io/badge/Objective-C%20-%20black?logo=apple)
+![Objective-C](https://img.shields.io/badge/Objective-C%20-%20black?style=for-the-badge&logo=apple)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=Python)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
