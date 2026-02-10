@@ -38,13 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >
-            username=ConnerAdamsMaine
-            &show_icons=true
-            &theme=github_dark
-            &hide_border=true
-            &include_all_commits=true
-            &count_private=true
+          options: "username=ConnerAdamsMaine&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
           path: dist/stats-card.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -52,12 +46,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >
-            username=ConnerAdamsMaine
-            &layout=compact
-            &langs_count=8
-            &theme=github_dark
-            &hide_border=true
+          options: "username=ConnerAdamsMaine&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
           path: dist/top-langs-card.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -65,11 +54,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: >
-            username=ConnerAdamsMaine
-            &repo=PTree
-            &theme=github_dark
-            &hide_border=true
+          options: "username=ConnerAdamsMaine&repo=PTree&theme=github_dark&hide_border=true"
           path: dist/pin-PTree.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
@@ -77,11 +62,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: >
-            username=ConnerAdamsMaine
-            &repo=portfolio-website
-            &theme=github_dark
-            &hide_border=true
+          options: "username=ConnerAdamsMaine&repo=portfolio-website&theme=github_dark&hide_border=true"
           path: dist/pin-portfolio-website.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
