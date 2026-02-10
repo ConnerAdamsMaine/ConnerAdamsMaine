@@ -1,0 +1,95 @@
+# Place this file at:
+# ConnerAdamsMaine/ConnerAdamsMaine/.github/workflows/stats.yml
+#
+# REQUIRED SETUP — do this once before running:
+#   1. Go to https://github.com/settings/tokens/new
+#   2. Select scopes: read:user, public_repo
+#      (Add 'repo' scope only if you want private repo stats included)
+#   3. Set expiration to "No expiration" to avoid silent breakage later.
+#   4. Copy the generated token.
+#   5. In this repo: Settings > Secrets and variables > Actions > New repository secret
+#      Name:  GH_STATS_TOKEN
+#      Value: <paste your token here>
+#
+# NOTE: keep_history: true on the push step preserves the snake SVGs
+# already on the output branch from snake.yml — do not remove it.
+
+name: Generate Stats Cards
+
+on:
+  schedule:
+    # Runs daily at 01:00 UTC — offset from snake.yml (00:00) to avoid
+    # concurrent writes to the output branch.
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: >
+            username=ConnerAdamsMaine
+            &show_icons=true
+            &theme=github_dark
+            &hide_border=true
+            &include_all_commits=true
+            &count_private=true
+          path: dist/stats-card.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >
+            username=ConnerAdamsMaine
+            &layout=compact
+            &langs_count=8
+            &theme=github_dark
+            &hide_border=true
+          path: dist/top-langs-card.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Generate PTree pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >
+            username=ConnerAdamsMaine
+            &repo=PTree
+            &theme=github_dark
+            &hide_border=true
+          path: dist/pin-PTree.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Generate portfolio-website pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >
+            username=ConnerAdamsMaine
+            &repo=portfolio-website
+            &theme=github_dark
+            &hide_border=true
+          path: dist/pin-portfolio-website.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
