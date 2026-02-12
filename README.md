@@ -25,15 +25,6 @@
 
 ---
 
-## 🧠 What I Care About
-
-- Clean architecture over clever hacks
-- Systems that survive production, not just demos
-- Type safety, correctness, and debuggability
-- Shipping things that scale without regret
-
----
-
 ## 💻 Tech Stack
 
 ### 📜 Languages
